@@ -1,6 +1,6 @@
 # 冬奥会问答数据集——WinterOlympics-QA
 
-WinterOlympics-QA公开数据集包含训练集（train_set.json）与测试集（test_set.json）两部分。
+WinterOlympics-QA公开数据集包含训练集（train_set.json）与测试集（test_set.json）两部分，语言为中文。
 
 训练集包含14701条问答对数据，格式为：
 
